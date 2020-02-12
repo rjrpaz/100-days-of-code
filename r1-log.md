@@ -8,3 +8,6 @@ The log of my #100DaysOfCode challenge. Started on [2020-02-10].
 Started a Kubernetes course.
 
 ### R1D2
+Two and a half modules from k8s course.
+
+

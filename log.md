@@ -11,3 +11,11 @@
 
 **Link to work:** [https://www.udemy.com/course/kubernetes-de-principiante-a-experto](https://www.udemy.com/course/kubernetes-de-principiante-a-experto)
 
+### Day 2: 2020-02-11
+##### 2 1/2 modules completed from the kubernetes course on Udemy:
+
+**Today's Progress**: Starting to deal with pods
+
+**Thoughts:** Using the docker driver allows to make some mental mindmap between pods and containers.
+
+
