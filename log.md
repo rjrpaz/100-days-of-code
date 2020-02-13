@@ -19,3 +19,11 @@
 **Thoughts:** Using the docker driver allows to make some mental mindmap between pods and containers.
 
 
+### Day 3: 2020-02-12
+##### 1 1/2 modules completed from the kubernetes course on Udemy:
+
+**Today's Progress**: manifests, tags and replica sets.
+
+**Thoughts:** It very important to manage pods from higher object (like replica sets) instead of manage them directly.
+
+

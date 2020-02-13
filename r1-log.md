@@ -10,4 +10,6 @@ Started a Kubernetes course.
 ### R1D2
 Two and a half modules from k8s course.
 
+### R1D3
+One and a half module from k8s course.
 
