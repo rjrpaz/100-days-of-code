@@ -13,6 +13,9 @@ Two and a half modules from k8s course.
 ### R1D3
 One and a half module from k8s course.
 
-### R1D3
+### R1D4
 two modules from k8s course.
+
+### R1D5
+two more modules from k8s course. Deployments and a practical exercise with sample golang code.
 

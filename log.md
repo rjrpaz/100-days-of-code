@@ -35,3 +35,11 @@
 **Thoughts:** Nice approach from course. So important to understand why pods and replica sets should not be handled directly.
 
 
+### Day 5: 2020-02-14
+##### 2 modules completed from the kubernetes course on Udemy:
+
+**Today's Progress**: I finished deployments. Services and Endpoints. Also, I started with the practical practice with a sample code in golang.
+
+**Thoughts:** I really like this course. This approach adding more and more layers in the kubernetes hierarchy is very clear.
+
+
