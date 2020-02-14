@@ -27,3 +27,11 @@
 **Thoughts:** It very important to manage pods from higher object (like replica sets) instead of manage them directly.
 
 
+### Day 4: 2020-02-13
+##### 2 modules completed from the kubernetes course on Udemy:
+
+**Today's Progress**: Deployments (finally!). Rollout.
+
+**Thoughts:** Nice approach from course. So important to understand why pods and replica sets should not be handled directly.
+
+
