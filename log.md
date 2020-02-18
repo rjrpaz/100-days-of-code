@@ -42,4 +42,25 @@
 
 **Thoughts:** I really like this course. This approach adding more and more layers in the kubernetes hierarchy is very clear.
 
+### Day 6: 2020-02-15
+##### Sample project for the k8s course on Udemy:
+
+**Today's Progress**: Sample project almost working. Sample code seems to be not working "as is" on the cloud (AWS).
+
+**Thoughts:** Off course sample code is not going to work first attempt!
+
+
+### Day 7: 2020-02-16
+##### Sample project for the k8s course on Udemy:
+
+**Today's Progress**: Fixed the issue with help from support Telegram group from this course, now project is finally working!.
+
+**Thoughts:** Not having a good machine to test this at home make me spend some money on the cloud provider. Though life.
+
+### Day 8: 2020-02-17
+##### 2 more modules from the k8s course
+
+**Today's Progress**: Learning about namespaces and context. Also about resource limitation on pods.
+
+**Thoughts:** Namespaces seem to be very helpful to organize resources. I have to learn a lot about architecturing.
 

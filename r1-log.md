@@ -19,3 +19,12 @@ two modules from k8s course.
 ### R1D5
 two more modules from k8s course. Deployments and a practical exercise with sample golang code.
 
+### R1D6
+Starting with comprehensive project that includes frontend and backend managed by k8s deployments
+
+### R1D7
+Fixing some bugs. Sample project is finally working.
+
+### R1D8
+Namespaces and contexts. Resource limits.
+
