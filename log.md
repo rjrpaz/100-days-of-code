@@ -64,3 +64,10 @@
 
 **Thoughts:** Namespaces seem to be very helpful to organize resources. I have to learn a lot about architecturing.
 
+### Day 9: 2020-02-18
+##### 2 more modules from the k8s course
+
+**Today's Progress**: Learning about limitranges and resource quotas on k8s.
+
+**Thoughts:** Limiting the resources used by the namespaces is a very important topic.
+

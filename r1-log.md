@@ -28,3 +28,6 @@ Fixing some bugs. Sample project is finally working.
 ### R1D8
 Namespaces and contexts. Resource limits.
 
+### R1D9
+Limitrange and ResourceQuota on k8s.
+
