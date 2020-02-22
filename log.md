@@ -71,3 +71,31 @@
 
 **Thoughts:** Limiting the resources used by the namespaces is a very important topic.
 
+### Day 10: 2020-02-19
+##### 1 module from the k8s course
+
+**Today's Progress**: Learning about ConfigMaps and Environment variables.
+
+**Thoughts:** Very important to understand the configuration of the containers as part of a project instead of being included in the container itself.
+
+### Day 11: 2020-02-20
+##### 2 modules from the Openshift course on EDX
+
+**Today's Progress**: I finally achive to make minishift run in my own laptop. This modules are mostly a review from Docker.
+
+**Thoughts:** I need to buy a more powerful laptop.
+
+### Day 12: 2020-02-21
+##### 2 more modules from the Openshift course on EDX
+
+**Today's Progress**: Following with docker concepts. This is more like a docker course so far.
+
+**Thoughts:** Docker is so interest at many levels.
+
+### Day 13: 2020-02-22
+##### Final modules from the Openshift course on EDX
+
+**Today's Progress**: Starting to interact with the oc command.
+
+**Thoughts:** Luckyly for me that I reviewed K8s concepts in the previous course before digging into OpenShift
+
