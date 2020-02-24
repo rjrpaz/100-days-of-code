@@ -34,12 +34,15 @@ Limitrange and ResourceQuota on k8s.
 ### R1D10
 ConfigMaps and Environment Variables.
 
-### R2D01
+### R1D11
 Openshift
 
-### R2D02
+### R1D12
 Openshift
 
-### R2D03
+### R1D13
 Openshift
+
+### R1D14
+K8s Variables and volumes
 

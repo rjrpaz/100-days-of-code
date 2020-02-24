@@ -99,3 +99,10 @@
 
 **Thoughts:** Luckyly for me that I reviewed K8s concepts in the previous course before digging into OpenShift
 
+### Day 14: 2020-02-23
+##### Final modules from the kubernetes course on Udemy
+
+**Today's Progress**: Variables and volumes
+
+**Thoughts:** Finished two courses in two days. It was a long time ago that I didn't ended a course without losing interest.
+
